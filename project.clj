@@ -1,7 +1,7 @@
-(defproject de.komoot/clj-kinesis-worker "1.0.0"
+(defproject de.komoot/clj-kinesis-worker "1.0.1"
   :author "Johannes Staffans"
   :description "Wrapper for the Amazon Kinesis Client library"
-  :url "https://github.com/jstaffans/clj-kinesis-worker"
+  :url "https://github.com/komoot/clj-kinesis-worker"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
