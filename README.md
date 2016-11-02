@@ -80,6 +80,14 @@ for example using environment variables like `AWS_ACCESS_KEY_ID` and `AWS_SECRET
 The `create-worker` function will use the default AWS credentials provider chain for
 authentication.
 
+## Deployment 
+
+Deployment is on Clojars:
+
+```sh
+lein deploy clojars
+```
+
 ## TODO
 
 * Client configuration like max retries, timeouts
