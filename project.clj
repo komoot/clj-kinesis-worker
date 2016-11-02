@@ -1,4 +1,4 @@
-(defproject clj-kinesis-worker "0.l.0"
+(defproject de.komoot/clj-kinesis-worker "1.0.0"
   :author "Johannes Staffans"
   :description "Wrapper for the Amazon Kinesis Client library"
   :url "https://github.com/jstaffans/clj-kinesis-worker"
