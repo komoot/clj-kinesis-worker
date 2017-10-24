@@ -15,4 +15,4 @@
                                   [byte-streams "0.2.0"]
                                   [base64-clj "0.1.1"]
                                   [juxt/iota "0.2.0"]
-                                  [clj-kinesis-client "0.0.7"]]}})
+                                  [clj-kinesis-client "1.0.0"]]}})
